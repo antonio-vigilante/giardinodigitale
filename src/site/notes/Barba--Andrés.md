@@ -1,5 +1,5 @@
 ---
-{"Data di creazione":"18 dicembre 2021","dg-publish":true,"permalink":"/barba-andres/","dgPassFrontmatter":true}
+{"Data di creazione":"18 dicembre 2021","dg-publish":true,"dg-home":true,"permalink":"/barba-andres/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
