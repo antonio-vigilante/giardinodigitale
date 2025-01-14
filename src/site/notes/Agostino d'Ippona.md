@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","permalink":"/agostino-d-ippona/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":"dg-home","permalink":"/agostino-d-ippona/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # Agostino d'Ippona
